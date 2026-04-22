@@ -1,0 +1,23 @@
+.about {
+  padding: 50px;
+}
+
+.about-text {
+  margin: 20px 0;
+  color: #94a3b8;
+  max-width: 600px;
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.skill {
+  padding: 10px 20px;
+  background: #1e293b;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
